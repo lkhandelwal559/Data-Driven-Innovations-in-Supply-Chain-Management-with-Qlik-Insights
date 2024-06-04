@@ -10,4 +10,6 @@ The project will utilize Qlik Sense, a modern platform for supply chain data ana
 
 **Dataset Link**:  **https://drive.google.com/drive/folders/1xyWOIKdhJ7sXQqFobq485gBJvuR5R9j-?usp=drive_link**
 
+**Documentation Link**: **https://docs.google.com/document/d/1N7mvyRH4T5G4mjpLkQ_ujyINV_Bjzar39bITx5ZOSnk/edit?usp=sharing**
+
 **Demonstration Link**:  
